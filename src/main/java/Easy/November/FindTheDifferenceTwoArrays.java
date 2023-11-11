@@ -9,7 +9,6 @@ public class FindTheDifferenceTwoArrays {
 
     public static List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
 
-
         HashMap<Integer,Integer> myMap_1 = new HashMap<>();
         HashMap<Integer,Integer> myMap_2 = new HashMap<>();
         List<List<Integer>> myLst = new ArrayList<>();
